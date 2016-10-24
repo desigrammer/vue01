@@ -1,0 +1,15 @@
+{
+  "name": "vue01",
+  "version": "1.0.0",
+  "description": "Sample Vue.js app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "/home/sugataka/repo/vue01"
+  },
+  "author": "",
+  "license": "ISC"
+}
