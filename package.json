@@ -11,5 +11,8 @@
     "url": "/home/sugataka/repo/vue01"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.0.3"
+  }
 }
