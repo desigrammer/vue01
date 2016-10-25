@@ -6223,24 +6223,11 @@
 /* 8 */
 /***/ function(module, exports) {
 
-	//
-	//
-	//
-	//
-	//
-	//
-	//
-	//
-	//
-	//
-
 	module.exports = {
-	  data: function () {
-	    return {
-	      msg: 'Hello world!'
+	    data: function () {
+	        return { msg: 'Hello world!' };
 	    }
-	  }
-	}
+	};
 
 
 /***/ },
