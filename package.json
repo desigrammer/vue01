@@ -17,6 +17,7 @@
   },
   "devDependencies": {
     "eslint": "^3.8.1",
+    "vue-loader": "^9.7.0",
     "webpack": "^1.13.2"
   }
 }
