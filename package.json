@@ -1,0 +1,25 @@
+{
+  "name": "vue01",
+  "version": "1.0.0",
+  "description": "Sample Vue.js app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "/home/sugataka/repo/vue01"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.0.3",
+    "vue-router": "^2.0.1"
+  },
+  "devDependencies": {
+    "css-loader": "^0.25.0",
+    "eslint": "^3.8.1",
+    "vue-loader": "^9.7.0",
+    "webpack": "^1.13.2"
+  }
+}
